@@ -18,4 +18,4 @@ I am a Systems Analysis and Development student. And parallel study of Front-End
 <strong>Connect with me:
 <br/>
 <br/>
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/marco-asouza/" target="_blank"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
