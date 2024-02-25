@@ -15,6 +15,5 @@ I am a Systems Analysis and Development student. And parallel study of Front-End
     
 ##
 
-<strong>Connect with me:
 <br/>
 <a href="https://www.linkedin.com/in/marco-asouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
