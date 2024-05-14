@@ -1,6 +1,6 @@
 Hi 👋, my name is Marco.
 
-I am a Systems Analysis and Development student. And parallel study of Front-End languages
+I am a Systems Analysis and Development student. And parallel study of mobile development.
 
 <br/>
 <br/>
