@@ -1,6 +1,6 @@
-Hi 👋, my name is Marco.
+Olá!👋, me chamo Marco.
 
-I am a Systems Analysis and Development student. And parallel study of mobile development.
+Sou estudante de Análise e Desenvolvimento de Sistemas, paralelo a isso aspirante a Analista de Dados.
 
 <br/>
 <br/>
