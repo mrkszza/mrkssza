@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, paralelo a isso aspiran
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img height="30" width="40" src="https://www.flaticon.com/br/icones-gratis/excel" />
+  <img height="30" width="40" src="https://www.flaticon.com/br/icones-gratis/excel.png" />
 </div>
     
 ##
